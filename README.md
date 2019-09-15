@@ -28,7 +28,7 @@ Classify Song Genres from Audio Data | Akif Özsoy, Jiyan Aytek | (https://class
 Give Life_ Predict Blood Donations | Ömer Özgür | (https://classroom.github.com/g/ba1Y1pIC)
 Mobile Games A-B Testing with Cookie Cats | Berkay Zühre, Canberk Sert | (https://classroom.github.com/g/pT3_cJ27)
 Naïve Bees_ Deep Learning with Images | cagri uysal, talha | (https://classroom.github.com/g/X2qHYkw2)
-Naïve Bees_ Deep Learning with Images | Muhammed Okuyucu, Uğuray Durdu | (https://classroom.github.com/g/X2qHYkw2)
+Naïve Bees_ Deep Learning with Images | Muhammed Okuyucu, Uğuray Durdu, Nefise Uysal  | (https://classroom.github.com/g/X2qHYkw2)
 Naïve Bees_ Image Loading and Processing | Muhammed Okuyucu, Uğuray Durdu | (https://classroom.github.com/g/iyB06Nvb)
 Naïve Bees_ Predict Species from Images | Bahadir | (https://classroom.github.com/g/ejfTTrSd)
 Predicting Credit Card Approvals | Tugay, Busra Senl | (https://classroom.github.com/g/gZByedzB)
