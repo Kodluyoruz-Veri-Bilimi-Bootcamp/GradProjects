@@ -34,7 +34,7 @@ Naïve Bees_ Image Loading and Processing | Muhammed Okuyucu, Uğuray Durdu | (h
 Naive Bees_ Predict Species from Images | Bahadir | (https://classroom.github.com/g/DaASHfo6)
 Predicting Credit Card Approvals | Tugay, Busra Senl | (https://classroom.github.com/g/gZByedzB)
 Reducing Traffic Mortality in the USA | Güray Baydur | (https://classroom.github.com/g/cGKeYPtF)
-Risk and Returns_ The Sharpe Ratio | Nurullah Kuş | (https://classroom.github.com/g/W2Hm0lmC)
+Risk and Returns_ The Sharpe Ratio | Nurullah Kuş, Recep | (https://classroom.github.com/g/W2Hm0lmC)
 The Hottest Topics in Machine Learning | Fatih Ermetin | (https://classroom.github.com/g/gTMVQUs3)
 Which Debts Are Worth the Bank's Effort_ | Emirhan Albayrak | (https://classroom.github.com/g/IxLHRWZ5)
 Who's Tweeting_ Trump or Trudeau_ | Merve Noyan | (https://classroom.github.com/g/Y46JbsJX)
