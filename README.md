@@ -1,3 +1,6 @@
+# Assignment / StudyGroup Invitations
+* Regression Study Group: [Repo](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/linear-regression-workbook), [Invitation](https://classroom.github.com/g/-eaglBQp)
+
 # GradProjects
 Links to each grad-project repository. Feel free to explore...
 
