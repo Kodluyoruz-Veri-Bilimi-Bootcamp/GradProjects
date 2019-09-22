@@ -3,6 +3,7 @@ Links to each grad-project repository. Feel free to explore...
 
 * [ASL Recognition with Deep Learning](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/ASL-Recognition-with-Deep-Learning)
 * [Bad passwords and the NIST guidelines](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Bad-passwords-and-the-NIST-guidelines)
+* [Book Recommendations from Charles Darwin](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Book-Recommendations-from-Charles-Darwin)
 * [Classify Song Genres from Audio Data](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Classify-Song-Genres-from-Audio-Data)
 * [Give Life_ Predict Blood Donations](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Give-Life_-Predict-Blood-Donations)
 * [Mobile Games A-B Testing with Cookie Cats](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Mobile-Games-A-B-Testing-with-Cookie-Cats)
@@ -21,10 +22,11 @@ Please follow the invitation link to create your own team repository.
 
 #projectname | Team | Invitation
 -------------|------|------------
-ASL Recognition with Deep Learning | Faruk Erdoğan Buldur, Yağmur Çetintaş | (https://classroom.github.com/g/nKA6qc0X)
+ASL Recognition with Deep Learning | Faruk Erdoğan Buldur | (https://classroom.github.com/g/nKA6qc0X)
 ASL Recognition with Deep Learning | Can Atambay, Necip Asım Arslan | (https://classroom.github.com/g/nKA6qc0X)
 ATM Cash Flow | Esra Kayaalp | (external source)
-Bad passwords and the NIST guidelines | Omer | (https://classroom.github.com/g/zkYUl1VX)
+Bad passwords and the NIST guidelines | empty | (https://classroom.github.com/g/zkYUl1VX)
+Book Recommendations from Charles Darwin | Yağmur Çetintaş, Omer| (https://classroom.github.com/g/KS5k6ZF8)
 Classify Song Genres from Audio Data | Akif Özsoy, Jiyan Aytek | (https://classroom.github.com/g/a4Qx9bBq)
 Give Life_ Predict Blood Donations | Ömer Özgür | (https://classroom.github.com/g/ba1Y1pIC)
 Mobile Games A-B Testing with Cookie Cats | Berkay Zühre, Canberk Sert | (https://classroom.github.com/g/pT3_cJ27)
