@@ -5,6 +5,7 @@ Links to each grad-project repository. Feel free to explore...
 * [Bad passwords and the NIST guidelines](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Bad-passwords-and-the-NIST-guidelines)
 * [Book Recommendations from Charles Darwin](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Book-Recommendations-from-Charles-Darwin)
 * [Classify Song Genres from Audio Data](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Classify-Song-Genres-from-Audio-Data)
+* [Environmental Sound Classification External](https://www.kaggle.com/mmoreaux/environmental-sound-classification-50)
 * [Give Life_ Predict Blood Donations](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Give-Life_-Predict-Blood-Donations)
 * [Mobile Games A-B Testing with Cookie Cats](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Mobile-Games-A-B-Testing-with-Cookie-Cats)
 * [Naive Bees_ Deep Learning with Images](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Naive-Bees_-Deep-Learning-with-Images)
@@ -28,6 +29,7 @@ ATM Cash Flow | Esra Kayaalp | (external source)
 Bad passwords and the NIST guidelines | empty | (https://classroom.github.com/g/zkYUl1VX)
 Book Recommendations from Charles Darwin | Yağmur Çetintaş, Omer| (https://classroom.github.com/g/KS5k6ZF8)
 Classify Song Genres from Audio Data | Akif Özsoy, Jiyan Aytek | (https://classroom.github.com/g/a4Qx9bBq)
+Environmental Sound Classification | Burak Nayır | [External](https://www.kaggle.com/mmoreaux/environmental-sound-classification-50)
 Give Life_ Predict Blood Donations | Ömer Özgür | (https://classroom.github.com/g/ba1Y1pIC)
 Mobile Games A-B Testing with Cookie Cats | Berkay Zühre, Canberk Sert | (https://classroom.github.com/g/pT3_cJ27)
 Naive Bees_ Deep Learning with Images | cagri uysal, talha | (https://classroom.github.com/g/h2OdOhST)
@@ -41,3 +43,5 @@ Risk and Returns_ The Sharpe Ratio | Nurullah Kuş, Recep | (https://classroom.g
 The Hottest Topics in Machine Learning | Fatih Ermetin | (https://classroom.github.com/g/gTMVQUs3)
 Which Debts Are Worth the Bank's Effort_ | Emirhan Albayrak, Mehmet Yalçın | (https://classroom.github.com/g/IxLHRWZ5)
 Who's Tweeting_ Trump or Trudeau_ | Merve Noyan, Betül Sakarya | (https://classroom.github.com/g/Y46JbsJX)
+
+
