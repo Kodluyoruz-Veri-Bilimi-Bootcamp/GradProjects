@@ -3,6 +3,7 @@
 * Assignment1 - Exploratory Data Analysis: [Root](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/assignment-1), [Invitation](https://classroom.github.com/a/xL8Krg02)
 * Regression Study Group: [Root](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/linear-regression-workbook), [Invitation](https://classroom.github.com/g/-eaglBQp)
 * Assignment2 - Classification: [Root](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/Assignment2-classification), [Invitation](https://classroom.github.com/a/eENVrkJD)
+* Assignment3 - LogisticRegression: [Root](https://github.com/Kodluyoruz-Veri-Bilimi-Bootcamp/assignment3-LogisticRegression), [Invitation](https://classroom.github.com/g/HRECNiuh)
 
 # GradProjects
 Links to each grad-project repository. Feel free to explore...
